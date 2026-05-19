@@ -664,7 +664,7 @@ st.markdown(
     """
     <div style='text-align: center; color: #666; font-size: 0.9rem; padding: 1rem 0;'>
     <p>Employee Excel Comparator | Enterprise Edition | 2026</p>
-    <p>Built with ❤️ using Streamlit</p>
+    <p>Built By Rajesh Korlapati</p>
     </div>
     """,
     unsafe_allow_html=True,
